@@ -34,3 +34,6 @@ It contains sweep between A, B and C2 type and the study step. The simulation st
 In this section there are the 3D and 2D plot. 
 For the Helmholtz equation the 3D plot are isoline pressure and pressure level (in dB), for the LNS the 3D plots are pressure and velocity.
 2D plots are related to the pressure and impedance in certain points like the center of the output section, or on the probes like the inlet impedance or output pressure. 
+
+
+REPOSITORY LINK https://github.com/GioeleGrecoMe/Project_courseL21
