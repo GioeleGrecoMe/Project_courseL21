@@ -3,8 +3,8 @@ This folder contains the following files:
 - main_3D_cone.mph - COMSOL 3D cone model simulations with LNS and H physics
 - Main_mouthpiece.mph - COMSOL 3D mouthpiece model simulations with LNS and H physics
 - mouthpieceReferenceComsol.pdf - Mechanical design of parametrized mouthpiece shape with the comsol notation
-- Cone Data folder - folder that contains simulation data in txt form of Cone simulations results
-- MouthpieceDATA folder - folder that contains simulation data in txt form of mouthpiece simulations results
+- Cone Data folder - folder that contains simulation data in txt form of Cone simulations results as .txt files
+- MouthpieceDATA folder - folder that contains simulation data in txt form of mouthpiece simulations results as .txt files
 
 ## COMSOL - Main_mouthpiece.mph
 ![alt text](https://github.com/GioeleGrecoMe/Project_courseL21/blob/main/Screenshot%20(518).png?raw=true)
